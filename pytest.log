@@ -1,0 +1,3 @@
+2022-09-22 23:20:55 [    INFO] Log inside a test_CPU function! (test_CPU.py:7)
+2022-09-22 23:20:58 [    INFO] Log inside a test_disk function! (test_disk.py:7)
+2022-09-22 23:21:01 [    INFO] Log inside a test_memory function! (test_memory.py:7)

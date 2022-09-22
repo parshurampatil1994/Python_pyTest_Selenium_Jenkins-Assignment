@@ -1,0 +1,1 @@
+{'timestamp': 1663676991.7835329, 'cpu_usage': 13.1, 'memory_used_percent': 81.3, 'disk_used_percent': 56.2}
