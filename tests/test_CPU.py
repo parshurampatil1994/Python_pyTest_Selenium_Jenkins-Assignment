@@ -2,7 +2,7 @@ import pytest
 import logging
 
 
-@pytest.mark.UI
+@pytest.mark.cli
 def test_CPU():
     logging.getLogger().info('Log inside a test_CPU function!')
 
