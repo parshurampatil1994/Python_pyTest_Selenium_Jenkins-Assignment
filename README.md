@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Python_pyTest_Selenium_Jenkins-Assignment
 
@@ -47,3 +48,6 @@
 - Install Jenkins on a VM (created through virtualbox or on any of the Cloud's free tier)
 - Create Jenkins pipeline jobs instead of free-style jobs (using groovy scripts)"
 
+=======
+# Python_pyTest_Selenium_Jenkins-Assignment
+>>>>>>> 5060feab55f26f51c0674bbbf3b43be4253edca7
